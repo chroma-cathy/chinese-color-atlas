@@ -8,6 +8,8 @@ Chinese Color Atlas curates 567 Chinese traditional colors for designers, develo
 
 This public repository contains free distribution assets only. The private product website and complete paid resource packs live separately.
 
+Download the latest bundled samples from the [v1.0.0 release](https://github.com/chroma-cathy/chinese-color-atlas/releases/tag/v1.0.0), or use the individual files below.
+
 | File | Use |
 |---|---|
 | `free/cathycolor.css` | CSS custom properties for Chinese traditional colors |
