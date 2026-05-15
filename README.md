@@ -1,12 +1,12 @@
-# Chinese Color Atlas Free
+# Chinese Color Atlas
 
-Free Chinese traditional color tokens, samples, and design resources from **Chinese Color Atlas**, a Chroma Cathy project.
+Public free Chinese traditional color tokens, samples, and design resources from **Chinese Color Atlas**, a Chroma Cathy project.
 
 Chinese Color Atlas curates 567 Chinese traditional colors for designers, developers, and AI creators, with practical exports for modern design workflows.
 
 ## What's Included
 
-This public repository contains free sample assets only:
+This public repository contains free distribution assets only. The private product website and complete paid resource packs live separately.
 
 | File | Use |
 |---|---|
