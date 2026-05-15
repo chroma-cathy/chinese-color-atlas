@@ -1,0 +1,26 @@
+{
+  "collection": "Chinese Color Atlas Sample",
+  "modes": ["default"],
+  "variables": [
+    {
+      "name": "Yan Zhi / 胭脂",
+      "type": "COLOR",
+      "value": "#9D2933"
+    },
+    {
+      "name": "Tian Qing / 天青",
+      "type": "COLOR",
+      "value": "#4E8CA5"
+    },
+    {
+      "name": "Yue Bai / 月白",
+      "type": "COLOR",
+      "value": "#D6DDE0"
+    },
+    {
+      "name": "Song Yan / 松烟",
+      "type": "COLOR",
+      "value": "#0A0A0A"
+    }
+  ]
+}
