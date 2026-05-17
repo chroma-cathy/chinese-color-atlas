@@ -8,6 +8,8 @@ Chinese Color Atlas Sample - Traditional Chinese Color Variables
 
 A free starter Figma Variables sample with 24 representative Chinese traditional colors, semantic examples, and three palette modes: Guochao, Song-inspired, and Dunhuang.
 
+Live Community file: https://www.figma.com/community/file/1637863774550903181
+
 ## Full Description
 
 Chinese Color Atlas curates 567 Chinese traditional colors for designers, developers, and AI creators. This free Figma Community sample gives you a practical starter set for interface exploration without exposing the complete paid atlas.
@@ -33,6 +35,7 @@ Links:
 - Figma guide: https://chinesecoloratlas.com/guides/chinese-colors-for-figma
 - Complete design pack: https://chinesecoloratlas.com/resources/complete-design-pack
 - GitHub samples: https://github.com/chroma-cathy/chinese-color-atlas
+- Figma Community sample: https://www.figma.com/community/file/1637863774550903181
 
 Attribution:
 

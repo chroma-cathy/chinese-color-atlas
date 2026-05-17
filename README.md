@@ -21,6 +21,7 @@ Download the latest bundled samples from the [latest release](https://github.com
 | `free/cathycolor-verified.swatches` | Procreate sample swatches: verified colors |
 | `free/cathycolor-term-lichun.swatches` | Procreate sample swatches: Lichun solar term palette |
 | `docs/sample-figma-vars.json` | Small Figma Variables JSON example |
+| [Figma Community sample](https://www.figma.com/community/file/1637863774550903181) | Duplicateable 24-color Figma Variables starter file |
 | `docs/sample-ai-prompts.txt` | Small AI prompt sample for Midjourney / SDXL workflows |
 | `docs/figma-community-description.md` | Copy-ready Figma Community listing text |
 
@@ -59,11 +60,11 @@ Download one of the `.swatches` files from `free/`, then open it on iPad with Pr
 
 Use `docs/sample-figma-vars.json` as a small reference when building a Figma Variables collection. It includes 24 representative primitives plus semantic examples for Guochao, Song-inspired, and Dunhuang palette modes.
 
-Suggested Figma Community title:
+Duplicate the live Figma Community sample:
 
-> Chinese Color Atlas Sample - Traditional Chinese Color Variables
+https://www.figma.com/community/file/1637863774550903181
 
-Use the copy-ready listing text in `docs/figma-community-description.md` when publishing a free community sample file.
+The listing copy and publishing notes are preserved in `docs/figma-community-description.md`.
 
 ### AI Prompts
 
