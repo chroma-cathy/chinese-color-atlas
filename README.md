@@ -1,20 +1,20 @@
 # Chinese Color Atlas
 
-Public free Chinese traditional color tokens, samples, and design resources from **Chinese Color Atlas**, a Chroma Cathy project.
+Public free Chinese traditional color samples and design resources from **Chinese Color Atlas**, a Chroma Cathay project.
 
-Chinese Color Atlas curates 567 Chinese traditional colors for designers, developers, and AI creators, with practical exports for modern design workflows.
+Chinese Color Atlas curates 567 Chinese traditional colors for designers, developers, and AI creators, with practical exports for modern design workflows. This repository publishes a representative free sample set only; complete 567-color workflow files are delivered through the paid resource packs.
 
 ## What's Included
 
 This public repository contains free distribution assets only. The private product website and complete paid resource packs live separately.
 
-Download the latest bundled samples from the [v1.0.0 release](https://github.com/chroma-cathy/chinese-color-atlas/releases/tag/v1.0.0), or use the individual files below.
+Download the latest bundled samples from the [latest release](https://github.com/chroma-cathy/chinese-color-atlas/releases/latest), or use the individual files below.
 
 | File | Use |
 |---|---|
-| `free/cathycolor.css` | CSS custom properties for Chinese traditional colors |
-| `free/cathycolor-tailwind.cjs` | Tailwind theme color tokens |
-| `free/cathycolor-tokens.json` | W3C DTCG-style design tokens |
+| `free/cathycolor.css` | CSS custom properties sample for representative Chinese traditional colors |
+| `free/cathycolor-tailwind.cjs` | Tailwind theme color token sample |
+| `free/cathycolor-tokens.json` | W3C DTCG-style design token sample |
 | `free/cathycolor-hot.swatches` | Procreate starter swatches: 8 popular colors |
 | `free/cathycolor-verified.swatches` | Procreate sample swatches: verified colors |
 | `free/cathycolor-term-lichun.swatches` | Procreate sample swatches: Lichun solar term palette |
@@ -54,7 +54,7 @@ Download one of the `.swatches` files from `free/`, then open it on iPad with Pr
 
 ## Full Resource Packs
 
-The complete design resource packs include Adobe ASE, Procreate swatches, Figma Variables, CSS, Tailwind, W3C DTCG tokens, AI prompts, Qianlong Palette data, Dunhuang palettes, solar-term swatches, and full JSON datasets.
+The complete design resource packs include all 567 colors as Adobe ASE, full Procreate swatches, Figma Variables, CSS, Tailwind, W3C DTCG tokens, AI prompts, Qianlong Palette data, Dunhuang palettes, solar-term swatches, and full JSON datasets.
 
 - Website: https://chinesecoloratlas.com
 - Free samples and paid packs: https://chinesecoloratlas.com/resources
@@ -70,11 +70,11 @@ The complete design resource packs include Adobe ASE, Procreate swatches, Figma 
 
 ## Attribution
 
-Chinese Color Atlas is a Chroma Cathy project. Attribution is appreciated when you use these assets in public resources, documentation, tutorials, or derivative datasets.
+Chinese Color Atlas is a Chroma Cathay project. Attribution is appreciated when you use these assets in public resources, documentation, tutorials, or derivative datasets.
 
 Suggested attribution:
 
-> Chinese traditional color samples from Chinese Color Atlas by Chroma Cathy: https://chinesecoloratlas.com
+> Chinese traditional color samples from Chinese Color Atlas by Chroma Cathay: https://chinesecoloratlas.com
 
 See `ATTRIBUTION.md` for data-source notes.
 

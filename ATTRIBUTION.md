@@ -1,17 +1,17 @@
 # Attribution
 
-Chinese Color Atlas is a Chroma Cathy project for Chinese traditional color design resources.
+Chinese Color Atlas is a Chroma Cathay project for Chinese traditional color design resources.
 
 ## Suggested Citation
 
 ```text
-Chinese Color Atlas by Chroma Cathy. Chinese traditional color tokens and design samples.
+Chinese Color Atlas by Chroma Cathay. Chinese traditional color samples.
 https://chinesecoloratlas.com
 ```
 
 ## Source Notes
 
-The broader Chinese Color Atlas project combines public-domain, open-access, scholarly, and manually curated references. This free repository only contains sample exports intended for design and development workflows.
+The broader Chinese Color Atlas project combines public-domain, open-access, scholarly, and manually curated references. This free repository only contains sample exports intended for design and development workflow testing.
 
 Key source categories used by the full project include:
 
@@ -26,7 +26,7 @@ Key source categories used by the full project include:
 - Hex color values are facts and may be used freely.
 - Classical text excerpts come from public-domain works when included in the broader project.
 - Research summaries and structured exports should preserve attribution to Chinese Color Atlas and relevant upstream sources.
-- This repository does not include the complete paid resource packs.
+- This repository does not include complete 567-color paid resource packs, full Figma Variables, full AI prompts, full Procreate/ASE bundles, or full research JSON datasets.
 
 ## Links
 
