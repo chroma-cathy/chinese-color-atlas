@@ -1,26 +1,216 @@
 {
   "collection": "Chinese Color Atlas Sample",
-  "modes": ["default"],
+  "description": "Representative free Figma Variables sample from Chinese Color Atlas by Chroma Cathay. The complete 567-color Figma pack is available at https://chinesecoloratlas.com/resources/complete-design-pack.",
+  "source": "https://chinesecoloratlas.com/resources/free",
+  "attribution": "Chinese traditional color samples from Chinese Color Atlas by Chroma Cathay: https://chinesecoloratlas.com",
+  "modes": [
+    {
+      "name": "Guochao",
+      "description": "High-contrast contemporary Chinese brand palette."
+    },
+    {
+      "name": "Song Inspired",
+      "description": "Quiet paper, celadon, ink, and mineral colors for editorial interfaces."
+    },
+    {
+      "name": "Dunhuang",
+      "description": "Warm mural-inspired gold, ochre, teal, and earth colors."
+    }
+  ],
   "variables": [
     {
-      "name": "Yan Zhi / 胭脂",
+      "name": "primitive/zhu-hong",
+      "label": "Zhu Hong / 朱红",
       "type": "COLOR",
-      "value": "#9D2933"
+      "value": "#FF4C00",
+      "usage": "Primary red accent"
     },
     {
-      "name": "Tian Qing / 天青",
+      "name": "primitive/yan-zhi",
+      "label": "Yan Zhi / 胭脂",
       "type": "COLOR",
-      "value": "#4E8CA5"
+      "value": "#9D2933",
+      "usage": "Deep rouge action color"
     },
     {
-      "name": "Yue Bai / 月白",
+      "name": "primitive/da-hong",
+      "label": "Da Hong / 大红",
       "type": "COLOR",
-      "value": "#D6DDE0"
+      "value": "#FF2121",
+      "usage": "Festival red highlight"
     },
     {
-      "name": "Song Yan / 松烟",
+      "name": "primitive/jin-se",
+      "label": "Jin Se / 金色",
       "type": "COLOR",
-      "value": "#0A0A0A"
+      "value": "#EACD76",
+      "usage": "Gold supporting accent"
+    },
+    {
+      "name": "primitive/yue-bai",
+      "label": "Yue Bai / 月白",
+      "type": "COLOR",
+      "value": "#D6ECF0",
+      "usage": "Pale blue-white surface"
+    },
+    {
+      "name": "primitive/tian-shui-bi",
+      "label": "Tian Shui Bi / 天水碧",
+      "type": "COLOR",
+      "value": "#5AA4AE",
+      "usage": "Cool teal section color"
+    },
+    {
+      "name": "primitive/qing-dai",
+      "label": "Qing Dai / 青黛",
+      "type": "COLOR",
+      "value": "#45465E",
+      "usage": "Ink-blue text or panel"
+    },
+    {
+      "name": "primitive/shi-qing",
+      "label": "Shi Qing / 石青",
+      "type": "COLOR",
+      "value": "#7BCFA6",
+      "usage": "Mineral green-blue accent"
+    },
+    {
+      "name": "primitive/bi-lv",
+      "label": "Bi Lv / 碧绿",
+      "type": "COLOR",
+      "value": "#2ADD9C",
+      "usage": "Bright emerald accent"
+    },
+    {
+      "name": "primitive/mo-se",
+      "label": "Mo Se / 墨色",
+      "type": "COLOR",
+      "value": "#50616D",
+      "usage": "Soft ink neutral"
+    },
+    {
+      "name": "primitive/xiang-se",
+      "label": "Xiang Se / 缃色",
+      "type": "COLOR",
+      "value": "#F0C239",
+      "usage": "Warm yellow note"
+    },
+    {
+      "name": "primitive/ming-cha-he",
+      "label": "Ming Cha He / 明茶褐",
+      "type": "COLOR",
+      "value": "#9E8368",
+      "usage": "Tea-brown neutral"
+    },
+    {
+      "name": "primitive/ou-he-se",
+      "label": "Ou He Se / 藕荷色",
+      "type": "COLOR",
+      "value": "#E4C6D0",
+      "usage": "Lotus pink tint"
+    },
+    {
+      "name": "primitive/qianlong-sha-lv",
+      "label": "Qianlong Sha Lv / 乾隆砂绿",
+      "type": "COLOR",
+      "value": "#5F7955",
+      "usage": "Measured Qianlong green sample"
+    },
+    {
+      "name": "primitive/zhe-se",
+      "label": "Zhe Se / 赭色",
+      "type": "COLOR",
+      "value": "#955539",
+      "usage": "Ochre earth color"
+    },
+    {
+      "name": "primitive/ci-huang",
+      "label": "Ci Huang / 雌黄",
+      "type": "COLOR",
+      "value": "#B4884D",
+      "usage": "Mural mineral yellow-brown"
+    },
+    {
+      "name": "primitive/shi-lv",
+      "label": "Shi Lv / 石绿",
+      "type": "COLOR",
+      "value": "#206864",
+      "usage": "Deep mineral green"
+    },
+    {
+      "name": "primitive/e-huang",
+      "label": "E Huang / 鹅黄",
+      "type": "COLOR",
+      "value": "#BE8A2F",
+      "usage": "Muted golden yellow"
+    },
+    {
+      "name": "primitive/fen-hong",
+      "label": "Fen Hong / 粉红",
+      "type": "COLOR",
+      "value": "#FFB3A7",
+      "usage": "Soft peach-pink highlight"
+    },
+    {
+      "name": "primitive/xiang-ya-bai",
+      "label": "Xiang Ya Bai / 象牙白",
+      "type": "COLOR",
+      "value": "#FFFBF0",
+      "usage": "Ivory background"
+    },
+    {
+      "name": "primitive/xuan-se",
+      "label": "Xuan Se / 玄色",
+      "type": "COLOR",
+      "value": "#622A1D",
+      "usage": "Dark warm ink-brown"
+    },
+    {
+      "name": "primitive/qing-se",
+      "label": "Qing Se / 青色",
+      "type": "COLOR",
+      "value": "#00E09E",
+      "usage": "Clear cyan-green accent"
+    },
+    {
+      "name": "primitive/dian-qing",
+      "label": "Dian Qing / 靛青",
+      "type": "COLOR",
+      "value": "#177CB0",
+      "usage": "Indigo-blue anchor"
+    },
+    {
+      "name": "primitive/an",
+      "label": "An / 黯",
+      "type": "COLOR",
+      "value": "#41555D",
+      "usage": "Low-saturation dark neutral"
     }
-  ]
+  ],
+  "semanticExamples": {
+    "Guochao": {
+      "surface/default": "primitive/xiang-ya-bai",
+      "surface/raised": "primitive/yue-bai",
+      "text/primary": "primitive/qing-dai",
+      "brand/primary": "primitive/zhu-hong",
+      "brand/accent": "primitive/jin-se",
+      "status/warm": "primitive/yan-zhi"
+    },
+    "Song Inspired": {
+      "surface/default": "primitive/yue-bai",
+      "surface/raised": "primitive/xiang-ya-bai",
+      "text/primary": "primitive/mo-se",
+      "brand/primary": "primitive/tian-shui-bi",
+      "brand/accent": "primitive/shi-qing",
+      "status/warm": "primitive/ou-he-se"
+    },
+    "Dunhuang": {
+      "surface/default": "primitive/xiang-ya-bai",
+      "surface/raised": "primitive/e-huang",
+      "text/primary": "primitive/xuan-se",
+      "brand/primary": "primitive/ci-huang",
+      "brand/accent": "primitive/shi-lv",
+      "status/warm": "primitive/zhe-se"
+    }
+  }
 }

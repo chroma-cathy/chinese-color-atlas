@@ -1,8 +1,56 @@
-Yan Zhi / 胭脂 / #9D2933
-ancient Chinese rouge red, carmine tone, elegant Song dynasty palette, ink wash painting, warm cultural color accent, #9D2933
+Chinese Color Atlas Sample AI Prompts
+Source: https://chinesecoloratlas.com/resources/free
+Attribution: Chinese traditional color samples from Chinese Color Atlas by Chroma Cathay: https://chinesecoloratlas.com
 
-Tian Qing / 天青 / #4E8CA5
-Tian Qing blue, Chinese celadon-inspired blue, calm porcelain glaze atmosphere, refined heritage palette, soft light, #4E8CA5
+This file is a small public sample for Midjourney, SDXL, and ComfyUI workflows. The complete AI prompt pack covers the full 567-color atlas.
 
-Yue Bai / 月白 / #D6DDE0
-Yue Bai moon white, pale lunar white with blue undertone, quiet Chinese paper texture, subtle minimal design palette, #D6DDE0
+1. Yan Zhi / 胭脂 / #9D2933
+Prompt: elegant Chinese rouge red as the dominant accent, Yan Zhi #9D2933, Song dynasty-inspired editorial still life, cream paper background, ink wash shadows, restrained luxury, museum catalogue lighting
+Negative: neon, plastic, cyberpunk, oversaturated, western fantasy armor, random symbols, fake Chinese characters
+
+2. Tian Shui Bi / 天水碧 / #5AA4AE
+Prompt: Tian Shui Bi #5AA4AE blue-green celadon atmosphere, quiet porcelain glaze, Chinese tea room interior, soft daylight, balanced negative space, refined heritage palette, matte texture
+Negative: chrome, sci-fi, harsh contrast, nightclub lighting, noisy background, illegible text
+
+3. Yue Bai / 月白 / #D6ECF0
+Prompt: Yue Bai #D6ECF0 moon-white surface, pale blue undertone, minimal Chinese stationery composition, handmade paper, faint ink wash border, calm premium design system mood
+Negative: pure white studio void, glossy plastic, clutter, saturated rainbow colors, distorted calligraphy
+
+4. Qing Dai / 青黛 / #45465E
+Prompt: Qing Dai #45465E deep ink-blue interface concept, Chinese scholar studio mood, dark woven silk texture, gold accent lines, high-end app hero background, subtle vignette
+Negative: black crush, neon purple, heavy grunge, low-resolution texture, random Chinese text
+
+5. Shi Qing / 石青 / #7BCFA6
+Prompt: Shi Qing #7BCFA6 mineral blue-green pigment, Dunhuang mural detail inspiration, matte mineral dust, handmade brush edge, cultural color swatch poster, warm ivory background
+Negative: fluorescent green, glossy paint, 3D cartoon, modern graffiti, oversharpened texture
+
+6. Jin Se / 金色 / #EACD76
+Prompt: Jin Se #EACD76 traditional gold accent, lacquer box packaging design, Chinese festive editorial photography, red silk shadow, premium but restrained, tactile paper and foil
+Negative: metallic chrome, cheap glitter, overexposure, baroque overload, illegible logo
+
+7. Zhe Se / 赭色 / #955539
+Prompt: Zhe Se #955539 ochre earth pigment, ancient mural restoration palette, weathered clay wall, natural mineral color, documentary lighting, quiet archaeological mood
+Negative: orange neon, fantasy ruins, dramatic flames, dirty noise, horror mood
+
+8. Shi Lv / 石绿 / #206864
+Prompt: Shi Lv #206864 deep mineral green, Chinese mountain painting color story, silk scroll texture, misty negative space, elegant brand color exploration, muted gold companion accent
+Negative: tropical jungle, electric teal, photorealistic forest clutter, plastic texture
+
+9. Fen Hong / 粉红 / #FFB3A7
+Prompt: Fen Hong #FFB3A7 soft Chinese peach-pink, spring stationery and packaging set, ivory paper, warm daylight, gentle floral shadow, modern feminine brand mood without clichés
+Negative: bubblegum neon, kawaii overload, plastic toys, excessive hearts, harsh magenta
+
+10. Xiang Ya Bai / 象牙白 / #FFFBF0
+Prompt: Xiang Ya Bai #FFFBF0 ivory-white base, Chinese art book layout, embossed paper, sparse calligraphy-inspired rhythm, quiet luxury product page, warm shadow gradients
+Negative: cold gray white, sterile hospital, noisy texture, fake letters, overdecorated frame
+
+Palette Recipes
+
+Guochao interface palette:
+Zhu Hong #FF4C00, Yan Zhi #9D2933, Jin Se #EACD76, Qing Dai #45465E, Xiang Ya Bai #FFFBF0. Use as a modern Chinese brand palette with high contrast, ivory surfaces, restrained red actions, and gold highlights.
+
+Song-inspired editorial palette:
+Yue Bai #D6ECF0, Tian Shui Bi #5AA4AE, Shi Qing #7BCFA6, Mo Se #50616D, Ou He Se #E4C6D0. Use for quiet editorial pages, celadon surfaces, soft ink typography, and pale lotus accents.
+
+Dunhuang mural palette:
+Ci Huang #B4884D, Zhe Se #955539, Shi Lv #206864, E Huang #BE8A2F, Xuan Se #622A1D. Use for mineral pigment scenes, mural texture, warm earth hierarchy, and deep green-blue contrast.
