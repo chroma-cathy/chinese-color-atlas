@@ -1,5 +1,7 @@
 # Chinese Color Atlas - Free Samples
 
+[简体中文](README.zh-Hans.md) | [繁體中文](README.zh-Hant.md)
+
 Free Chinese traditional color samples and workflow resources from **Chinese Color Atlas**, a Chroma Cathay project.
 
 Use this repository when you want to test Chinese traditional colors in real design and development workflows before using the complete atlas. It includes sample CSS variables, Tailwind colors, design tokens, Procreate swatches, AI prompts, and a duplicateable Figma Community file.
