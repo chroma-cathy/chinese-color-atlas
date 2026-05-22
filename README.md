@@ -12,6 +12,7 @@ Chinese Color Atlas is a source-aware color reference for designers, developers,
 - **Developers:** try `free/cathycolor.css`, `free/cathycolor-tailwind.cjs`, or `free/cathycolor-tokens.json`.
 - **Illustrators:** import the Procreate `.swatches` samples from `free/`.
 - **AI image creators:** test `docs/sample-ai-prompts.txt` for Midjourney, SDXL, or ComfyUI workflows.
+- **Design-system teams:** read the [cultural color token naming guide](https://chinesecoloratlas.com/guides/cultural-color-design-systems).
 - **Need context?** read the free resource page at <https://chinesecoloratlas.com/resources/free>.
 
 ## What's Included
@@ -76,7 +77,9 @@ https://www.figma.com/community/file/1637863774550903181
 
 The Figma sample is useful for UI, branding, editorial, packaging, and cultural design exploration. The listing copy and publishing notes are preserved in `docs/figma-community-description.md`.
 
-For a practical guide, see <https://chinesecoloratlas.com/guides/chinese-colors-for-figma>.
+For a practical Figma workflow guide, see <https://chinesecoloratlas.com/guides/chinese-colors-for-figma>.
+
+For the broader design-system framework behind cultural primitives, semantic roles, and scene modes, see <https://chinesecoloratlas.com/guides/cultural-color-design-systems>.
 
 ### AI Prompts
 
